@@ -103,7 +103,7 @@ function ToggleWithDescription() {
         <span className="text-sm">Enable notifications</span>
       </label>
       <p id={descriptionId} className="text-xs text-gray-400">
-        You'll receive email updates about new features and important announcements.
+        You&apos;ll receive email updates about new features and important announcements.
       </p>
     </div>
   );

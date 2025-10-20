@@ -63,7 +63,7 @@ async function fetchComments(postId: number): Promise<Comment[]> {
   
   const comments = await response.json();
   
-  return comments.map((comment: any) => ({
+  return comments.map((comment: { id: number; body: string; name: string }) => ({
     id: comment.id,
     text: comment.body,
     author: comment.name,
@@ -77,7 +77,7 @@ async function PostWithCommentsDemo({ postId: postId = 1 }: { postId?: number })
   const post = await fetchPost(postId);
   
   // Lower priority content - start promise but don't await
-  const commentsPromise = fetchComments(post.id);
+  const commentsPromise = fetchComments(postId);
   
   return (
     <div className="space-y-4">
