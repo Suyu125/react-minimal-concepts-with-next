@@ -1,5 +1,6 @@
 import StreamingSSRDemo from "./components/StreamingSSRDemo";
 import PostWithCommentsDemo from "./components/PostWithCommentsDemo";
+import UseIdDemo from "./components/UseIdDemo";
 import Card from "./components/UI/Card";
 import DemoTitle from "./components/UI/DemoTitle";
 
@@ -16,6 +17,10 @@ export default function Home() {
           <Card>
             <DemoTitle>Server-Client Promise Streaming with use Hook (React 19)</DemoTitle>
             <PostWithCommentsDemo />
+          </Card>
+          <Card>
+            <DemoTitle>useId Hook for Accessibility (React 18+)</DemoTitle>
+            <UseIdDemo />
           </Card>
         </div>
       </main>
