@@ -1,0 +1,223 @@
+{
+  "Home": {
+    "placeVisited": "0 barılǵan orın |1 barılǵan orın | {count} barılǵan orın",
+    "historyBtn": "Tariyx",
+    "medalsBtn": "MEDALLAR",
+    "about": "JOBA HAQQINDA",
+    "createMap": "Kartanı jaratıw",
+    "searchBar": {
+      "customLoaded": "Arnawlı karta júklendi",
+      "enterCity": "Qala, shtat hám mámleketti kirgiziń"
+    },
+    "aboutDescriptions": {
+      "1": "Geoguess - bul reklamasız biypul hám erinshek geoguess oyını. Oyınshılar bes turda oyınshı tosınarlı jaylardı qanshellilik jaqın shama etiwleri múmkinligi menen básekilesedi. Siz esaptı Facebook yamasa Twitter sıyaqlı social tarmaqlar arqalı basqa adamlar menen bólisiwińiz múmkin. Doslarıńız menen beske shekem dosıńız menen kóp oyınshı oyınların oynawıńız múmkin. Birinshi oyınshı xananı jaratadı hám bólme kólemin belgileydi. Basqa oyınshılar birinshi jaratılǵan oyınshı menen birdey bólme atınıń jazadı hám oyın baslanadı.",
+      "2": "Bul oyın forked edi "
+    },
+    "customMap": "Arnawlı karta",
+    "customMapDescriptions": {
+      "1": "Qıdırıw paneli járdeminde tosınarlı jaylardı qala, shtat yamasa mámleket menen sheklewińiz múmkin.",
+      "2": "Kóp oyınshı jay birinshi oyınshı tárepinen belgilenedi.",
+      "3": "Bunnan tısqarı, siz ózińizdiń jeke kartańızdı jaratılıwıńız múmkin ",
+      "4": "fayl.",
+      "5": "GeoJson kartası quramın tuyme menen kiritiń:",
+      "6": "Jeke kartanı tańlaw : "
+    },
+    "limitation": "SHEKLEWLER",
+    "limitationDescription": "Házirde men kúnine kvotalar ornatıp atırman, sol sebepli bul oyındı ótkeriw bahası júdá joqarı bolmawi kerek. Eger karta júklenbese, bul sol kúni kvota asıp ketkenligin ańlatadı. Ol Tınısh okeanı waqtı menen yarım túnde tiklenedi. Qolaysızlıqlar ushın keshirim so'raymız. Bul oyın ashıq derek bolıp, siz óz oyın serverińizdi jaratıwıńız hám bul oyındı sheksiz oynawıńız múmkin.",
+    "play": "Oynaw",
+    "streamerModeActivate": "Streamer rejimi qosılǵan",
+    "streamerModeDetails": "Bólme siltemeleri hám atları jasırılǵan",
+    "mapSavedAlert": {
+      "title": "Karta saqlandı 🎉",
+      "subtitle": "Siz buni kartalardıń diziminen tabasiz"
+    },
+    "HomeCard": {
+      "edit": "Ózgeris kirgiziw",
+      "delete": "Óshiriw",
+      "medal": {
+        "platinum": "Platina",
+        "gold": "Altın",
+        "silver": "Gúmis",
+        "bronze": "Bronza"
+      }
+    },
+    "HomeCardMode": {
+      "map": "Karta",
+      "area": "Maydan"
+    },
+    "Sections": {
+      "areasTitle": "Maydanlar",
+      "mapsTitle": "Kartalar",
+      "pleaseSelectLabel": "Joǵalǵanǵa uqsaysiz, túrin saylań yamasa múmkin ",
+      "barrelRoll": "Joqarıǵa"
+    }
+  },
+  "StreetView": {
+    "nearby": {
+      "title": "Jaqın - átirapdaǵı jaylasıw",
+      "message": "Ókiniw menen aytamız, biz belgilengen orında tosınarlı jaydı tapa almadıq. Biraq, biz jaqın orında taptıq 😉"
+    },
+    "waitForOtherPlayers": "Basqa oyınshılardı kútemen...",
+    "redirectToHomePage": "Bas betke jóneltirilip atır...",
+    "exitGame": "Siz oyınnan shıǵıwǵa májbúrsiz. 5 sekunttan keyin bas betke jóneltirilesiz...",
+    "waitForOtherPlayersToFinish": "Basqa oyınshılar oyındı tamamlawın kútiń...",
+    "confirmExit": "Haqıyqattan da ámeldegi oyınnan ketajaqsızba? Bul oyındı toqtatadı!",
+    "countdownAlert": "Artqa esaplaw baslanadı : {count} sekund qaldı| Artqa esaplaw baslandı : {count} sekund qaldı",
+    "leaderboard": "Leaderboard"
+  },
+  "Maps": {
+    "makeGuess": "Shama etiń",
+    "guess": "TABIW",
+    "nextRound": "KEYINGI TUR",
+    "viewSummary": "Juwmaqtı kóriw",
+    "exit": "Shıǵıw",
+    "reset": "QAYTA ORNATÍW",
+    "playAgain": "QAYTA OYNATÍW",
+    "infoWindow": {
+      "Distance": "Aralıq",
+      "Points": "Ballar"
+    },
+    "leaderboard": {
+      "notGuessed": "Shama etilmegen",
+      "guessed": "Shama etilgen"
+    }
+  },
+  "Header": {
+    "language": "Til",
+    "about": "Joba haqqında",
+    "limitation": "Sheklewler",
+    "contact": "Baylanıs"
+  },
+  "HeaderGame": {
+    "room": "BÓLME",
+    "round": "Tur",
+    "distance": "ARALIQ",
+    "kmaway": "{value} km uzaqlıqta",
+    "score": "Sanaw"
+  },
+  "next": "KEYINGISI",
+  "cancel": "BIYKARLAW",
+  "DialogCustomMap": {
+    "title": "Arnawlı karta",
+    "invalid": "Jaramsız GeoJSON",
+    "text": "Tekst",
+    "url": "Silteme",
+    "file": "Fayl",
+    "edit": "Kartaǵa ózgeris kirgiziw",
+    "fileLabel": "GeoJSON fayldı tańlaw",
+    "OK": "MAQUL",
+    "download": "GeoJSONdi júklep alıw",
+    "Clean": "Tazalaw",
+    "save": "saqlaw",
+    "inputName": {
+      "label": "Karta ataması",
+      "placeholder": "Meniń súyikli ornm"
+    }
+  },
+  "History": {
+    "title": "Tariyx",
+    "date": "Sáne",
+    "mode": "Rejim",
+    "mapName": "Karta ataması",
+    "time": "Waqıt",
+    "distance": "Aralıq",
+    "points": "Ballar",
+    "rank": "Dáreje",
+    "actions": "Háreketler",
+    "search": "Izlew",
+    "exportGeoSave": "GeoSaveti eksport qılıw",
+    "importGeoSave": "GeoSaveti import qılıw",
+    "exportCSV": "CSVdi export qılıw",
+    "total": "Jámi",
+    "nbRound": "Nb raundları"
+  },
+  "DialogRoom": {
+    "singlePlayer": "Birden-bir oyınshı",
+    "withFriends": "Doslar menen",
+    "invalidRoomName": "Atı nadurıs. Ótinish, basqasın sınap kóriń.",
+    "inProgress": "Birinshi oyınshı házir xananı jaratıp atır. Ótinish, kútiń hám qaytaldan urınıń.",
+    "roomIsFull": "Bul bólme qashannan berli tolǵan. Ótinish, basqasın sınap kóriń.",
+    "alreadyStarted": "Bul xanada oyın qashannan berli baslanǵan. Ótinish, basqasın sınap kóriń."
+  },
+  "CardRoomName": {
+    "title": "Jańa bólme jaratıw yamasa ámeldegi xanaǵa qosıw ushın bólme atın kiritiń"
+  },
+  "CardRoomPlayerName": {
+    "title": "Bólme:",
+    "input": "Oyınshınıń atın jazıń.",
+    "anonymousPlayerName": "Anomim 🕵",
+    "players": "1 oyınshı| {count} oyınshı"
+  },
+  "CardRoomSize": {
+    "title": "Bólme kólemin ornatıw."
+  },
+  "CardRoomTime": {
+    "title": "Waqıt shegarasın belgileń.",
+    "infinite": "Sheksizlik"
+  },
+  "CardRoomMap": {
+    "title": "Kartańızdı anıqlań",
+    "loadBtn": "Kartanı júklep alıw",
+    "reset": "Qayta ornatıw",
+    "cantPlayGeoJson": "Jaramsız GeoJSON, sizde 5 ten artıq pozitsiya bolıwı kerek."
+  },
+  "CardRoomSettings": {
+    "title": "Oyın sazlawları",
+    "modeLabel": "Oyın rejimin tańlań",
+    "includePhotopheres": "Foto ramkalardı qosıw",
+    "timeAttackLabel": "Hújim waqıtı",
+    "timeattackInfos": "Hújim waqıtı rejiminde tek mámleketti birinshi bolıp shama etken oyınshı ball aladı. Tezirek bolıń hám jeńis qazanıń!",
+    "allowMove": "Háreketke ruxsat beriń",
+    "allowZoom": "Masshtabǵa ruxsat beriń",
+    "allowPan": "Pan-ǵa ruxsat beriń",
+    "guessedLeaderboard": "Oyınshılar shama etken yamasa joq ekenligin kórsetiw",
+    "scoreLeaderboard": "Ballar kestesin kórsetiw",
+    "countDownLabel": "Artqa esaplaw (sekundlar)",
+    "scoreModeLabel": "Ball formulası",
+    "scoreModes": {
+      "normal": "ádettegi",
+      "time": "waqıt"
+    },
+    "selectAreas": "Maydanlardı tańlań",
+    "moreSettings": "Kóbirek sazlawlar",
+    "optimiseStreetView": "Streetview optimallastırıw (tek rásmiy)",
+    "nbRound": "Raundlar sanı"
+  },
+  "CardRoomDifficulty": {
+    "title": "Qıyınshılıq dárejesin ornatıń.",
+    "easy": "ańsat (dúnya)",
+    "medium": "ortasha (mámleket)",
+    "hard": "qıyın (qala)"
+  },
+  "DialogSummary": {
+    "summaryMsgSinglePoints": "Siziń esabıńızda <strong>{points}</strong> ball! ",
+    "summaryMsgSingleDistance": "Siz <strong>{distance}</strong> km qashıqlıqtasız!",
+    "summaryMsgMultiPoints": "<strong>{playerName}</strong> ball <strong>{points}</strong>! ",
+    "summaryMsgMultiDistance": "(<strong>{distance}</strong> km qashıqlıq)",
+    "viewDetails": "Detallardı kóriw"
+  },
+  "Footer": {
+    "under": "astında",
+    "privacyPolicy": "Qupiyalıq siyasatı"
+  },
+  "urlCopied": "Silteme kóshirip alındı",
+  "DetailsMap": {
+    "moreInfo": "Kóbirek maǵlıwmat"
+  },
+  "modes": {
+    "classic": "Klassikalıq",
+    "country": "Mámleketti tańlań",
+    "custom_area": "Tańlań"
+  },
+  "Demo": {
+    "message": "Eger siz proektti qollap-quwatlaw hám onı rawajlandırıwdı qáleseńiz, siziń járdemińizden quwanamız: Awdarma 🔠, Karta 🌍, Kod 💻, Pikir💡, Beta test 👀.",
+    "btn": "Bizlerge qosılıń"
+  },
+  "OK": "MAQUL",
+  "yes": "awa",
+  "no": "yaq",
+  "AlertUpdate": {
+    "label": "Jańa versiyası bar. Oǵan iye bolıw ushın túymeni basıń.",
+    "btn": "Jańalaw"
+  }
+}
